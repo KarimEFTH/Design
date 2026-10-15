@@ -1,0 +1,18 @@
+<svg width="375" height="237" viewBox="0 0 375 237" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_1629_10738)">
+<g clip-path="url(#paint0_angular_1629_10738_clip_path)" data-figma-skip-parse="true"><g transform="matrix(-0.1705 0.0945 -0.1705 -0.020155 186.5 102.5)"><foreignObject x="-1689.09" y="-1689.09" width="3378.18" height="3378.18"><div xmlns="http://www.w3.org/1999/xhtml" style="background:conic-gradient(from 90deg,rgba(255, 255, 255, 1) 0deg,rgba(237, 240, 239, 1) 360deg);height:100%;width:100%;opacity:1"></div></foreignObject></g></g><rect x="16" y="8" width="341" height="189" rx="12" data-figma-gradient-fill="{&#34;type&#34;:&#34;GRADIENT_ANGULAR&#34;,&#34;stops&#34;:[{&#34;color&#34;:{&#34;r&#34;:1.0,&#34;g&#34;:1.0,&#34;b&#34;:1.0,&#34;a&#34;:1.0},&#34;position&#34;:0.0},{&#34;color&#34;:{&#34;r&#34;:0.92941176891326904,&#34;g&#34;:0.94117647409439087,&#34;b&#34;:0.93725490570068359,&#34;a&#34;:1.0},&#34;position&#34;:1.0}],&#34;stopsVar&#34;:[{&#34;color&#34;:{&#34;r&#34;:1.0,&#34;g&#34;:1.0,&#34;b&#34;:1.0,&#34;a&#34;:1.0},&#34;position&#34;:0.0},{&#34;color&#34;:{&#34;r&#34;:0.92941176891326904,&#34;g&#34;:0.94117647409439087,&#34;b&#34;:0.93725490570068359,&#34;a&#34;:1.0},&#34;position&#34;:1.0}],&#34;transform&#34;:{&#34;m00&#34;:-341.0,&#34;m01&#34;:-341.0,&#34;m02&#34;:527.50,&#34;m10&#34;:189.0,&#34;m11&#34;:-40.309951782226562,&#34;m12&#34;:28.154975891113281},&#34;opacity&#34;:1.0,&#34;blendMode&#34;:&#34;NORMAL&#34;,&#34;visible&#34;:true}"/>
+</g>
+<defs>
+<filter id="filter0_d_1629_10738" x="-8" y="0" width="389" height="237" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feMorphology radius="8" operator="erode" in="SourceAlpha" result="effect1_dropShadow_1629_10738"/>
+<feOffset dy="16"/>
+<feGaussianBlur stdDeviation="16"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.0470588 0 0 0 0 0.0470588 0 0 0 0 0.0509804 0 0 0 0.4 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1629_10738"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1629_10738" result="shape"/>
+</filter>
+<clipPath id="paint0_angular_1629_10738_clip_path"><rect x="16" y="8" width="341" height="189" rx="12"/></clipPath></defs>
+</svg>
